@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_text">Click Here</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="enter_your_family">Enter Your Family</string>
+</resources>
