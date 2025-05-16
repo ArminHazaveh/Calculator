@@ -7,7 +7,7 @@
     android:background="#F1F1F1"
     tools:context=".MainActivity">
 
-    <EditText
+    <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/txtInputNumber1"
         android:layout_width="328dp"
         android:layout_height="77dp"
@@ -17,12 +17,12 @@
         android:layout_marginTop="102dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Number 1"
+        android:text=""
         android:textAlignment="center"
         tools:layout_editor_absoluteX="72dp"
         tools:layout_editor_absoluteY="221dp" />
 
-    <EditText
+    <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/txtInputNumber2"
         android:layout_width="328dp"
         android:layout_height="77dp"
@@ -33,7 +33,7 @@
         android:ems="10"
         android:textAlignment="center"
         android:inputType="text"
-        android:text="Number 2" />
+        android:text="" />
 
     <Button
         android:id="@+id/btnPlus"
